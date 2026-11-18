@@ -9,7 +9,7 @@
 [![lisans](https://img.shields.io/badge/lisans-MIT-yellow)](LICENSE)
 
 **MEB/f@tih okul ağı filtrelerini sunucusuz aşan, yerel HTTP proxy.**
-Akıllı tahtada (Pardus ETAP 23) doğrudan çalışır; sunucu, VPS, VPN ya da
+Windows doğrudan çalışır; sunucu, VPS, VPN ya da
 pip paketi **gerekmez** — yalnızca Python 3 standart kitaplığı.
 Windows için aynı klasördeki `BASLAT.bat` / `GUI.bat` dosyalarına bakın
 (`README-WINDOWS.md`).
